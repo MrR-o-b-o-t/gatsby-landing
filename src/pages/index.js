@@ -7,7 +7,7 @@ const IndexPage = () => {
   return (
     <Layout>
       <SEO
-        title="The home page"
+        title="Sams Gatsby Page"
         description="You can customize the SEO text here."
         image="/logo.png"
         pathname="/"
@@ -15,13 +15,15 @@ const IndexPage = () => {
         // article
       />
       <section>
-        <h1>This is where the front page content will eventually go.</h1>
-        <div><p>This file, index.js, functions as the homepage for the site.</p>
-        <p>It can be populated with pure HTML like this, and extended using all available Gatsby and React components.</p></div>
+        <h1>LOREM</h1>
+        <div>
+          <p>Lorem</p>
+          <p>Lorem</p>
+        </div>
+        <h2>Lorem</h2>
       </section>
     </Layout>
   )
 }
-
 
 export default IndexPage
